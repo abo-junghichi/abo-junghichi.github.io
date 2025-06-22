@@ -1,3 +1,3 @@
-# blog.test
+# 日本語でブログ
 
 * [サブページ](subpage.md)

@@ -3,4 +3,6 @@
 * [sub page](subpage.md)
 
 ## deposits for [Tiny Core Linux](http://tinycorelinux.net)
-Currently none.
+
+* [jiskan-fonts](jiskan.tar.gz)
+* [mplus-fonts](mplus.tar.gz)
